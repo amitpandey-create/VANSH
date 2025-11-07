@@ -1,6 +1,0 @@
-streamlit>=1.18
-pandas>=1.5
-numpy>=1.24
-matplotlib>=3.5
-matplotlib.pyplot
-import matplotlib.pyplot as plt
